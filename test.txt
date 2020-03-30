@@ -1,3 +1,3 @@
 abcdefg first commit.
 issue2 fix.
-issue1 bug fixed.
+issue1 bug fixed 2nd time.
