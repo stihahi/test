@@ -3,3 +3,5 @@ issue2 fix.
 issue1 bug fixed 2nd time.
 
 Other member changed here.
+
+another changed by other member.
