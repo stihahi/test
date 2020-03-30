@@ -7,3 +7,4 @@ another changed by other member.
 
 
 Changes new from other member.
+another changes from other member.
