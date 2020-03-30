@@ -8,3 +8,7 @@ another changed by other member.
 
 S.Iwai changed second time.
 Another changes added by S.Iwai.
+
+
+Changes new from other member.
+another changes from other member.
