@@ -1,0 +1,2 @@
+This is master branch fix for new.txt.
+Will this modification be good?
