@@ -12,3 +12,6 @@ Another changes added by S.Iwai.
 
 Changes new from other member.
 another changes from other member.
+
+another changes for 2nd.
+
