@@ -2,3 +2,6 @@ This is master branch fix for new.txt.
 Will this modification be good?
 どんどん進むよ
 hello world! This is dev branch.
+
+
+New branch second modification.
